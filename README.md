@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HAshUse&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=HAshUse&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=HAshUse&theme=tokyonight&cache_seconds=86400" height="165"/> -->
 </p>
 
 ---
