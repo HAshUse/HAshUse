@@ -1,83 +1,92 @@
-<h1 align="center">Hi 👋 I'm Bhaskar Chaple</h1>
-
-<h3 align="center">🚀 Full Stack Developer | React • Node • MongoDB • Python</h3>
+# 👋 Hi, I'm Bhaskar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Python+Programmer;Always+Learning+New+Tech+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhaskarchaple&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+%7C+Python;Building+Real+World+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Web Developer  
-- ⚛️ Building modern apps using React  
-- ⚙️ Backend with Node.js & Express  
-- 🗄️ MongoDB database design  
-- 🐍 Python for automation & problem solving  
-- 🌱 Currently improving System Design & Backend Architecture  
+- 🎓 Full Stack Developer  
+- 🌐 MERN Stack + Python Developer  
+- 🧠 Interested in AI & real-world problem solving  
+- 🏗️ Love building complete web applications from scratch  
+- 🎯 Goal: Master Backend, AI & Game Development  
 - 📫 Email: **bhaskarchaple59@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+### 💻 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+### 🧠 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,python" />
+</p>
+
+### 🧰 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HAshUse&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
-  <!-- <img src="https://streak-stats.demolab.com?user=HAshUse&theme=tokyonight&cache_seconds=86400" height="165"/> -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HAshUse&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=HAshUse&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HAshUse&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HAshUse&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🛒 E-Commerce App | Shopping app with cart & authentication | React + Node + MongoDB |
-| 🔐 Auth System | JWT login/signup APIs | Express + MongoDB |
+| Project Name | Description | Tech Stack |
+|-------------|------------|------------|
+| 🛒 E-Commerce App | Shopping app with authentication & cart | MERN |
+| 🔐 Auth System | JWT login/signup APIs | Node, Express |
 | 📊 Admin Dashboard | Analytics & charts | React |
-| 🤖 Python Tools | Automation scripts | Python |
+| 🤖 Python Automation | Useful automation scripts | Python |
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhaskar-chaple-5ab734356/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:bhaskarchaple59@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhaskar-chaple-5ab734356/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bhaskarchaple59@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bhaskarchaple">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ⭐ Quote I Code By
+## 🐍 Contribution Graph
 
-> Code. Build. Improve. Repeat.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HAshUse/HAshUse/output/github-contribution-grid-snake.svg" />
+</p>
 
+---
+
+⭐ **From Bhaskar** — *Code. Build. Improve. Repeat.* 🚀
